@@ -33,7 +33,7 @@
       </a>
 
       <a href="<?= $linkedin; ?>" target="_blank">
-        <i class="fa-brands fa-linkedin-in fa-lg"></i>
+        <i class="fa-brands fa-linkedin-in fa-lg"></i> 
       </a>
 
     </div>
